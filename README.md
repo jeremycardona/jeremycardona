@@ -25,7 +25,6 @@ I'm Jeremy Cardona, a passionate software developer with experience in multiple 
 
 - **[GitHub User Activity](https://github.com/jeremycardona/github-user-activity)** - Go application to fetch and display GitHub user activity in the terminal
 - **[Snippetbox](https://github.com/jeremycardona/snippetbox)** - Web application for sharing code snippets
-- **[Todo CLI](https://github.com/jeremycardona/todo-cli)** - Command-line todo application built with Go
 - **[DSA](https://github.com/jeremycardona/DSA)** - Data structures and algorithms implementations in Python and C
 - **[Porter's Path](https://github.com/jeremycardona/porters-path)** - Blog about working with AI tools and exploring new technologies
 
@@ -40,5 +39,6 @@ I'm Jeremy Cardona, a passionate software developer with experience in multiple 
 
 - GitHub: [@jeremycardona](https://github.com/jeremycardona)
 - Portfolio: [jeremycardona.github.io](https://jeremycardona.github.io)
+- LinkedIn: [jeremycardona](https://www.linkedin.com/in/jeremy-cardona/)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
