@@ -12,7 +12,7 @@ I'm Jeremy Cardona, a passionate software developer with experience in multiple 
 ### 🛠️ Technologies & Tools
 
 - **Languages**: Python, C, JavaScript, Go, Swift, PLpgSQL, HTML/CSS
-- **Frameworks**: Flask, React, Node.js
+- **Frameworks**: Flask, React
 - **Databases**: PostgreSQL, MySQL
 - **Tools**: Docker, Git, Jekyll
 - **Cloud**: AWS, GitHub Actions
