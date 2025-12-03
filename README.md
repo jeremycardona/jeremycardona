@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jeremy Cardona, a passionate software developer with experience in multiple programming languages and technologies. I enjoy building applications, exploring new technologies, and solving complex problems.
+I'm Jeremy Cardona, a passionate software developer with experience in multiple programming languages and technologies. I enjoy building applications, exploring new technologies, and solving real world problems.
 
 ### 🚀 About Me
 
