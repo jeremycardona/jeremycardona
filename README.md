@@ -17,10 +17,6 @@ I'm Jeremy Cardona, a passionate software developer with experience in multiple 
 - **Tools**: Docker, Git, Jekyll
 - **Cloud**: AWS, GitHub Actions
 
-### 📈 GitHub Stats
-
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremycardona&show_icons=true&theme=radical)
-
 ### 🔥 Recently Working On
 
 - **[GitHub User Activity](https://github.com/jeremycardona/github-user-activity)** - Go application to fetch and display GitHub user activity in the terminal
